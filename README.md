@@ -55,7 +55,7 @@ streamlit run app.py
 <img width="1913" height="970" alt="EnergyDashboard_SS" src="https://github.com/user-attachments/assets/94ba09d2-f43e-4de1-8fc3-30223d3fd16c" />
 
 
-## 🎓 Academic Context
+##  Academic Context
 
 This project was developed as a foundational tool for real-time power quality analysis, bridging the gap between electrical engineering concepts and modern data science visualization techniques during Ph.D. research workflows.
 
