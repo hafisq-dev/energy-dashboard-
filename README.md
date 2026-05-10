@@ -24,26 +24,45 @@ A high-fidelity, industrial-grade energy monitoring dashboard built with **Pytho
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
 
+```
+
 2. **Create and activate a virtual environment:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 
+```
+
+
 3. **Install dependencies:**
 ```bash
 pip install streamlit pandas numpy plotly
+
+```
+
 
 4. **Run the application:**
 ```bash
 streamlit run app.py
 
+```
 
-## 📊 Preview
 
-<img width="1913" height="970" alt="EnergyDashboard_SS" src="https://github.com/user-attachments/assets/ddf26b54-9f03-4a20-a5ad-c4c1e4c352fc" />
+
+##  Preview
+
+
+<img width="1913" height="970" alt="EnergyDashboard_SS" src="https://github.com/user-attachments/assets/94ba09d2-f43e-4de1-8fc3-30223d3fd16c" />
 
 
 ## 🎓 Academic Context
+
 This project was developed as a foundational tool for real-time power quality analysis, bridging the gap between electrical engineering concepts and modern data science visualization techniques during Ph.D. research workflows.
+
+---
+
 **Developed by:** Hafis Quliyev
+
 **Academic Focus:** Electrical Engineering / Power Systems Analysis
+
+```
